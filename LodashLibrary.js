@@ -90,4 +90,5 @@ chunk(array, size){
        return arrayChunk
 }
 }
-console.log(_.drop)
+// Do not write or modify code below this line.
+module.exports = _;
